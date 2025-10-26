@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Matthew R. McCall
+# <img width="64" height="64" alt="phoenix" src="https://github.com/user-attachments/assets/bf35ead7-4f03-4a02-9cde-14944bf2e0d3" />
+ Matt McCall
 
-### Founder & CEO | VA Claims, LLC
+### Founder & Systems Engineer
+VA Claims, LLC © 2025
 
 [![Website](https://img.shields.io/badge/🌐-vaclaims.us-1a73e8?style=for-the-badge)](https://vaclaims.us)
 [![Email](https://img.shields.io/badge/📧-team@vaclaims.us-ea4335?style=for-the-badge)](mailto:team@vaclaims.us)
