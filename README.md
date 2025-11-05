@@ -43,7 +43,6 @@ VA Claims, LLC © 2025
 
 ### 🎯 2025 Performance Highlights
 
-- **$177,278** in revenue through October 2025
 - **92 claims filed** for deserving veterans
 - **59% increase** in revenue per claim efficiency
 - Successfully transitioned from Square to Stripe payment processing (June 2025)
@@ -68,15 +67,17 @@ const techStack = {
 
 ### 🔨 Current Projects
 
-**VAC02 Web Service** - Building a lightweight, fully-customized internal CRM specifically designed for VA claims processing with maximum automation capabilities.
-
 **Full-Stack Automation** - Implementing automated follow-ups, payment reminders, and rating increase notifications to scale operations efficiently.
 
 **Data Analytics Platform** - Developing metrics dashboards to track trends from filed claims and optimize service delivery.
 
+**VAC02 Web Service** - Building a lightweight, fully-customized internal CRM specifically designed for VA claims processing with maximum automation capabilities.
+
+**B2B & B2C Software as a Service Expansion** - Conducting market research to determine if a platform need exists for our custom automated document preparation software as a subscribtion-based tool for businesses and as a self-service tool for consumers.
+
 ---
 
-## 📈 Market Opportunity
+## 📈 Veteran Market Opportunity
 
 <div align="center">
 
@@ -153,7 +154,7 @@ const techStack = {
 
 ### r/VAClaims Subreddit
 
-**40,000+ Members** | Free Resources & Community Support
+**40,000+ Members** | Free Resources & Community Support | Greatest source of organic leads (after referrals)
 
 Providing free education and guidance to veterans navigating the VA claims process
 
@@ -163,11 +164,11 @@ Providing free education and guidance to veterans navigating the VA claims proce
 
 ---
 
-## 🎓 Development Philosophy
+## 🎓 Philosophy
 
-> *"Building scalable, automated solutions that serve those who served."*
+> *"FIRE EVERYTHING."*
 
-I believe in leveraging technology to reduce barriers and create systems that work for real people solving real problems. Every line of code written for VA Claims, LLC represents a veteran who might achieve financial stability and recognition for their service-connected disabilities.
+Preparation is finding your gift. Euphoria is giving it away.
 
 ---
 
@@ -177,7 +178,6 @@ I believe in leveraging technology to reduce barriers and create systems that wo
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -187,9 +187,9 @@ I believe in leveraging technology to reduce barriers and create systems that wo
 
 </div>
 
-**Infrastructure:** PostgreSQL, Render.com, Webflow  
+**Infrastructure:** ClaimWatch(Beta) | vaclaims.us => Express => PostgreSQL => Stripe
 **Business Tools:** Stripe, Pipedrive, Google Workspace  
-**Specialties:** Automation, CRM Development, Payment Processing, API Integration
+**Specialties:** Automation, Payment Processing, API Integration Across Services, VA Law & Procedures
 
 ---
 
@@ -198,38 +198,21 @@ I believe in leveraging technology to reduce barriers and create systems that wo
 ```typescript
 interface BusinessMilestones {
   revenue_growth: "221% YoY (2023-2024)";
-  claims_processed: "251+ veterans served";
-  community_built: "40,000+ Reddit community members";
+  community_built: "43,000+ organic Reddit community members";
   efficiency_gains: "59% increase in revenue per claim";
   payment_evolution: "Migrated from Square to Stripe at scale";
-  automation_level: "90%+ of workflows automated";
+  automation_level: "60%+ of workflows automated";
 }
-```
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Current: $177K] --> B[Milestone: $1.4M]
-    B --> C[Scale: $105M TAM]
-    
-    style A fill:#1a73e8,stroke:#fff,color:#fff
-    style B fill:#ea4335,stroke:#fff,color:#fff
-    style C fill:#34a853,stroke:#fff,color:#fff
 ```
 
 </div>
 
-**2025 Priorities:**
-- 🚀 Scale to $1.4M annual revenue
-- 🤖 Complete VAC02 custom CRM development
-- 📊 Launch comprehensive analytics platform
+**2025-2026 Priorities:**
+- 🚀 Scale to $200K-$500K annual revenue
+- 📊 Refine processes based on collected data
 - 🔄 Automate 100% of recurring workflows
-- 👥 Build scalable team structure
+- 🤖 Complete vaclaims custom CRM development
+- 👥 Continue hiring a scalable team structure
 
 ---
 
@@ -263,8 +246,8 @@ Let's connect!
 
 ### 💭 Quote of the Day
 
-*"Some people spend an entire lifetime wondering if they made a difference in the world. The Marines don't have that problem."*  
-— President Ronald Reagan
+*"FIRE EVERYTHING"*  
+— NERO
 
 ---
 
@@ -274,6 +257,6 @@ Let's connect!
 
 ---
 
-**© 2025 VA Claims, LLC** | Built with ❤️ for Veterans
+**© 2025 VA Claims, LLC** | Built for Veterans and Military
 
 </div>
