@@ -32,10 +32,6 @@ VA Claims, LLC © 2025
 
 <div align="center">
 
-| Metric | 2023 | 2024 | 2025 (YTD) |
-|--------|------|------|------------|
-| **Revenue** | $45,647 | $146,788 | $177,278 |
-| **Claims Filed** | 38 | 121 | 92 |
 | **Avg Revenue/Claim** | $1,201 | $1,213 | $1,927 |
 | **Growth Rate** | — | **221%** 📈 | **21%** (projected 288% annually) 🚀 |
 
@@ -43,7 +39,6 @@ VA Claims, LLC © 2025
 
 ### 🎯 2025 Performance Highlights
 
-- **92 claims filed** for deserving veterans
 - **59% increase** in revenue per claim efficiency
 - Successfully transitioned from Square to Stripe payment processing (June 2025)
 - Maintaining consistent month-over-month growth trajectory
